@@ -1,7 +1,7 @@
 import json
 from time import time
 
-from block import Block
+from BlockChain.block import Block
 
 
 class BlockChain(Block):

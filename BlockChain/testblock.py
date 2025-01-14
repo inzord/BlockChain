@@ -1,7 +1,7 @@
 from time import time
 
-from block import Block
-from blockchain import BlockChain
+from BlockChain.block import Block
+from BlockChain.blockchain import BlockChain
 
 JeChain = BlockChain()
 
